@@ -25,7 +25,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ushiromiya Jessica",
-    img: "/9cgF819/But-b11-warai1.png",
+    img: "/S0BgZfQ/Ushiromiya-Jessica9.png",
     opts: {
       type: ["human"],
     }
